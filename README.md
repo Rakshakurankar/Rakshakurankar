@@ -10,7 +10,8 @@ I'm a Student with a passion for technology. I love exploring new technologies a
 
 Here are some of the projects I've been worked on:
 
-- []().
+- [Retina Vigil: Deep Learning-Enabled Retinopathy Detection for Early Disease AssessmentRetina Vigil: Deep Learning-Enabled Retinopathy Detection for Early Disease Assessment
+IEEE]().
 #### Contact Me
 
 Feel free to reach out to me if you have any questions or just want to connect:
