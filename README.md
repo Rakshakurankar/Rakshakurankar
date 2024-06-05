@@ -16,7 +16,7 @@ IEEE]().
 
 Feel free to reach out to me if you have any questions or just want to connect:
 
-- Email: rakshakmu@gmail.com
+- Email: rakshakmu822@gmail.com
 - LinkedIn: [Rakshak M U](https://www.linkedin.com/in/rakshak-m-u/)
 
 Thanks for visiting my repository! Happy coding! 🚀
